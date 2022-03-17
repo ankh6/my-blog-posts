@@ -6,3 +6,5 @@ I decided to give it a try to check how hard it would be. I challenged myself to
 
 
 11/03/2022 [Reaching agreement in hostile environments — consensus protocols decrypted](https://medium.com/@andynk/reaching-agreement-in-hostile-environments-consensus-protocols-decrypted-dab798500c79)
+
+18/03/2022 [Virtual machines - When "stateful" illusionists get things done] (https://medium.com/@andynk/virtual-machines-when-stateful-illusionists-get-things-done-90c89a9d650d)
