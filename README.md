@@ -10,3 +10,5 @@ I decided to give it a try to check how hard it would be. I challenged myself to
 18/03/2022 [Virtual machines - When "stateful" illusionists get things done](https://medium.com/@andynk/virtual-machines-when-stateful-illusionists-get-things-done-90c89a9d650d)
 
 15/04/2022 [Writing - Quiet pleasure](https://medium.com/@andynk/writing-quiet-pleasure-687222f7ef5e)
+
+02/07/2022 [G.O.A.T. NBA Draft - a cheesy question ?](https://medium.com/@andynk/g-o-a-t-nba-draft-a-cheesy-question-2f02e4bf3cfa)
